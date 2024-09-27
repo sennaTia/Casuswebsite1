@@ -1,0 +1,47 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+
+.head_balk {
+    width: 100%;
+    height: 106px;
+    background-color: black;
+}
+
+.tussen_doos {
+    height: 106px;
+    width: 100%;
+}
+.begin_doosje {
+    height: 448px;
+    width: 641px;
+    background-color: black;
+    margin-left: 400px;
+    margin-right: 219px;
+}
+
+
+
+
+.doosje_2 {
+    background-color: black;
+    height: 389px;
+    width: 641px;
+    margin-left: 400px;
+    margin-top: 204px;
+}
+
+.h1 {
+    text-align: center;
+    text-decoration: overline;
+}
+
+.doosje_3 {
+    background-color: black;
+    height: 191px;
+    width: 641px;
+    margin-left: 400px;
+    margin-top: 199px;
+}
