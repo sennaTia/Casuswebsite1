@@ -1,0 +1,91 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    background-color: #0A1117;
+
+
+}
+
+a {
+    text-decoration: none;
+}
+
+@font-face {
+    font-family: montserrat;
+    src: url(fonts/Montserrat/static/Montserrat-Bold.ttf);
+}
+
+
+.home1 {
+    color: #fff;
+}
+
+.learn1 {
+    color: #fff;
+}
+
+.about1 {
+    color: #fff;
+}
+
+.contact1 {
+    color: #fff;
+}
+
+.head_balk {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-evenly;
+    width: 100%;
+    height: 106px;
+    background-color: #0A1117;
+}
+
+.tekstnummer1 {
+    background-color: #fff;
+    color: #0A1117;
+    font-size: 24px;
+    font-weight: bold;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+}
+
+
+
+
+
+.pink-goose {
+    display: flex;
+    flex-direction: row;
+    column-gap: 9px;
+}
+
+.size_pink {
+    color: #fff;
+    font-size: 22.5px;
+    font-weight: bold;
+    font-family: montserrat;
+
+}
+
+.size_white {
+    color: #FFB4D3;
+    font-size: 22.5px;
+    font-weight: bold;
+    font-family: montserrat;
+
+}
+
+.tekst_zetter1 {
+    color: #fff;
+    display: flex;
+    flex-direction: row;
+    column-gap: 50px;
+    font-weight: bold;
+    font-size: 22.5px;
+    font-family: montserrat;
+}
