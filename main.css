@@ -1087,12 +1087,12 @@ height: 15px;
     color:  #FFFFFF;
     font-size: 46px;
     margin-top: 60px;
-    margin-left: 690px;
+    justify-self: center;
 }
 
 .letschat {
     margin-top: 15px;
-    margin-left: 640px;
+    justify-self: center;
     color: #5A6C7E;
     font-size: 40px;
 }
@@ -1545,6 +1545,34 @@ height: 15px;
     color: #FFFFFF;
     margin-top:100px ;
 }
+
+.containerfooter {
+    background-color: #121E28;
+    height :100px;
+    width: auto;
+}
+
+.container-text2 {
+    gap: 20px;
+    font-size: 18px;
+    justify-content: center;
+    display: flex;
+    flex-direction: row;
+    background-color: #121E28;
+}
+
+.textabout {
+    color:#FFFFFF;
+    background-color: #121E28;
+    margin-top: 35px;
+}
+
+.textlegal {
+color:#FFC803;
+background-color: #121E28;
+margin-top: 35px;
+}
+
 
  /* dit is mijn eerste stukje van about */
 
