@@ -1539,6 +1539,13 @@ height: 15px;
     color: #E5E5E5;
 }
 
+.laatstebalk {
+    height: 100px;
+    width: auto;
+    color: #FFFFFF;
+    margin-top:100px ;
+}
+
  /* dit is mijn eerste stukje van about */
 
 .our_heroes {
