@@ -1589,8 +1589,15 @@ margin-top: 35px;
 
  /* dit is mijn eerste stukje van about */
 
+ .containerourherous {
+ display: flex;
+ justify-content: center;
+ }
+
+
 .our_heroes {
     color: #FFFFFF;
     font-size: 42px;
     margin-top: 200px;
+    font-weight: 700;
 }
