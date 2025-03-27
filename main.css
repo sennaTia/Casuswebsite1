@@ -1,4 +1,4 @@
-*{
+* {
     margin: 0px;
     padding: 0px;
     background-color: #0A1117;
@@ -17,7 +17,7 @@ button {
     border: none;
     cursor: pointer;
 }
-    
+
 .img1 {
     display: flex;
     margin-top: 118px;
@@ -102,7 +102,7 @@ dit is de navigatie balk  */
 .size_pink {
     color: #fff;
     font-size: 22.5px;
-    font-weight:  bold;
+    font-weight: bold;
     font-family: montserrat;
 
 }
@@ -147,7 +147,7 @@ dit is de navigatie balk  */
     align-items: center;
     margin: auto;
     border-radius: 18px;
-    color:#10151A;
+    color: #10151A;
     text-align: center;
     font-size: 20px;
     font-weight: bold;
@@ -155,7 +155,7 @@ dit is de navigatie balk  */
     font-family: "montserrat", "sans-serif";
     margin-top: 20px;
 
-    
+
 }
 
 .doosje_2 {
@@ -186,13 +186,13 @@ dit is de navigatie balk  */
     flex-direction: row;
     gap: 24px;
     margin-top: 44px;
-  justify-content: center;
-  font-size: 20px;
- 
+    justify-content: center;
+    font-size: 20px;
+
 
 }
 
-.text1{
+.text1 {
     color: #FFB4D3;
     border-radius: 40px;
     padding: 10px;
@@ -233,9 +233,9 @@ dit is de navigatie balk  */
     flex-direction: row;
     gap: 24px;
     margin-top: 44px;
-  justify-content: center;
-  font-size: 20px;
-  margin-top: 15px;
+    justify-content: center;
+    font-size: 20px;
+    margin-top: 15px;
 
 }
 
@@ -268,11 +268,11 @@ dit is de navigatie balk  */
 
 
 .img3 {
-width: 900px;
-height: 350px;
+    width: 900px;
+    height: 350px;
 
-margin-left: 435px;
-margin-top: 30px;
+    margin-left: 435px;
+    margin-top: 30px;
 }
 
 
@@ -398,7 +398,7 @@ margin-top: 30px;
     color: #121E28;
     border-radius: 40px;
     padding: 5px;
-   border: #2A3744;
+    border: #2A3744;
     border: 4px #10151A solid;
 }
 
@@ -406,7 +406,7 @@ margin-top: 30px;
     color: #121E28;
     border-radius: 40px;
     padding: 5px;
-   border: #2A3744;
+    border: #2A3744;
     border: 4px #10151A solid;
 }
 
@@ -414,7 +414,7 @@ margin-top: 30px;
     color: #121E28;
     border-radius: 40px;
     padding: 5px;
-   border: #2A3744;
+    border: #2A3744;
     border: 4px #10151A solid;
 }
 
@@ -422,7 +422,7 @@ margin-top: 30px;
     color: #121E28;
     border-radius: 40px;
     padding: 5px;
-   border: #2A3744;
+    border: #2A3744;
     border: 4px #10151A solid;
 }
 
@@ -430,7 +430,7 @@ margin-top: 30px;
     color: #121E28;
     border-radius: 40px;
     padding: 5px;
-   border: #2A3744;
+    border: #2A3744;
     border: 4px #10151A solid;
 }
 
@@ -438,7 +438,7 @@ margin-top: 30px;
     color: #121E28;
     border-radius: 40px;
     padding: 5px;
-   border: #2A3744;
+    border: #2A3744;
     border: 4px #10151A solid;
 }
 
@@ -447,15 +447,15 @@ margin-top: 30px;
     gap: 120px;
     display: flex;
     flex-direction: row;
-   justify-content: center;
-   font-size: 22px;
-   font-weight: bold;
+    justify-content: center;
+    font-size: 22px;
+    font-weight: bold;
 }
 
 
 .text18 {
     color: #E5E5E5;
-   margin-left: 0px;
+    margin-left: 0px;
 }
 
 .text19 {
@@ -477,14 +477,14 @@ margin-top: 30px;
 
 .text23 {
     color: #E5E5E5;
-  
+
 }
 
 .helpstep {
- font-size: 46px;
- color: #E5E5E5;
-text-align: center;
-margin-top: 300px;
+    font-size: 46px;
+    color: #E5E5E5;
+    text-align: center;
+    margin-top: 300px;
 }
 
 .container9 {
@@ -505,7 +505,7 @@ margin-top: 300px;
 
 
 .text24 {
-    color:#FFFFFF ;
+    color: #FFFFFF;
     font-size: 32px;
 }
 
@@ -594,7 +594,7 @@ margin-top: 300px;
 
 
 
-.container-weekly-digest{
+.container-weekly-digest {
     display: flex;
     align-items: center;
     flex-direction: column;
@@ -603,9 +603,9 @@ margin-top: 300px;
 
 
 
-.doos-3{
+.doos-3 {
     width: 1100px;
-    height:350px;
+    height: 350px;
     background-color: #121E28;
     border-radius: 30px;
     border: 2px solid #2A3744;
@@ -614,7 +614,7 @@ margin-top: 300px;
 }
 
 
-.container-text1{
+.container-text1 {
     display: flex;
     align-items: center;
     flex-direction: column;
@@ -622,7 +622,7 @@ margin-top: 300px;
     border-radius: 30px;
 }
 
-.text56{
+.text56 {
     font-size: 46px;
     color: #FFFF;
     margin-top: 60px;
@@ -632,14 +632,14 @@ margin-top: 300px;
 
 .text57 {
     font-size: 42px;
-    color:#9AAFC3;
+    color: #9AAFC3;
     margin-top: 26px;
     background-color: #121E28;
     font-weight: bold;
 }
 
 
-.doos-4{
+.doos-4 {
     width: auto;
     height: 60px;
     background-color: #121E28;
@@ -649,7 +649,7 @@ margin-top: 300px;
     justify-content: center;
     align-items: center;
     margin-top: 55px;
-   
+
 }
 
 .your-email {
@@ -662,7 +662,7 @@ margin-top: 300px;
     border: solid;
 }
 
-.your-email{
+.your-email {
     height: 56px;
 }
 
@@ -671,7 +671,7 @@ margin-top: 300px;
     background-color: #CEAAFF;
     height: 60px;
     width: 150px;
-    color:#10151A;
+    color: #10151A;
 }
 
 
@@ -684,14 +684,14 @@ margin-top: 300px;
 .tex-press {
     color: #E5E5E5;
     font-size: 46px;
-    
+
 }
 
 
 .container-seeall {
-margin-left: 382px;
-display: flex;
-flex-direction: row;
+    margin-left: 382px;
+    display: flex;
+    flex-direction: row;
 }
 
 .text-seeall {
@@ -716,34 +716,34 @@ flex-direction: row;
 
 
 .doosje1blauw {
-    width:330px ;
-    height:330px ;
+    width: 330px;
+    height: 330px;
     background-color: #77E6FF;
     border-radius: 20px;
 }
 
 .imagedecrypt {
- margin-left: 20px;
- margin-top: 22px;
- background-color: #77E6FF;
+    margin-left: 20px;
+    margin-top: 22px;
+    background-color: #77E6FF;
 }
 
 .textsuperdao {
     font-size: 20px;
     color: #10151A;
     background-color: #77E6FF;
-    font-family: "montserrat"; 
+    font-family: "montserrat";
     font-weight: bold;
-    margin-left:20px;
+    margin-left: 20px;
     margin-top: 15px;
-    
+
 }
 
 .textsuperdao2 {
     color: #10151A;
     background-color: #77E6FF;
     margin-top: 10px;
-    margin-left:20px ;
+    margin-left: 20px;
     font-family: "montserrat";
     font-weight: "semibold";
     font-size: 15px;
@@ -759,7 +759,7 @@ flex-direction: row;
     background-color: #77E6FF;
     color: #10151A;
     font-size: 14px;
-    margin-left:20px ;
+    margin-left: 20px;
     margin-top: 62px;
     width: 50px;
     height: 20px;
@@ -769,12 +769,12 @@ flex-direction: row;
 
 
 .imagepijl {
-background-color: #77E6FF;
-margin-top: 62px;
-margin-left: 8px;
-color: #10151A;
-width: 20px;
-height: 15px;
+    background-color: #77E6FF;
+    margin-top: 62px;
+    margin-left: 8px;
+    color: #10151A;
+    width: 20px;
+    height: 15px;
 }
 
 
@@ -783,8 +783,8 @@ height: 15px;
 
 
 .doosje2roze {
-    width:330px ;
-    height:330px ;
+    width: 330px;
+    height: 330px;
     background-color: #E2C1F9;
     border-radius: 20px;
 }
@@ -799,9 +799,9 @@ height: 15px;
     font-size: 20px;
     color: #10151A;
     background-color: #E2C1F9;
-    font-family: "montserrat"; 
+    font-family: "montserrat";
     font-weight: bold;
-    margin-left:20px;
+    margin-left: 20px;
     margin-top: 32px;
 }
 
@@ -809,7 +809,7 @@ height: 15px;
     color: #10151A;
     background-color: #E2C1F9;
     margin-top: 10px;
-    margin-left:20px ;
+    margin-left: 20px;
     font-family: "montserrat";
     font-weight: "semibold";
     font-size: 15px;
@@ -825,7 +825,7 @@ height: 15px;
     color: #10151A;
     background-color: #E2C1F9;
     font-size: 14px;
-    margin-left:20px ;
+    margin-left: 20px;
     margin-top: 62px;
     height: 20px;
     font-family: "montserrat";
@@ -845,8 +845,8 @@ height: 15px;
 
 
 .doosje3geel {
-    width:330px ;
-    height:330px ;
+    width: 330px;
+    height: 330px;
     background-color: #DBE268;
     border-radius: 20px;
 }
@@ -861,9 +861,9 @@ height: 15px;
     font-size: 20px;
     color: #10151A;
     background-color: #DBE268;
-    font-family: "montserrat"; 
+    font-family: "montserrat";
     font-weight: bold;
-    margin-left:20px;
+    margin-left: 20px;
     margin-top: 32px;
 }
 
@@ -871,7 +871,7 @@ height: 15px;
     color: #10151A;
     background-color: #DBE268;
     margin-top: 10px;
-    margin-left:20px ;
+    margin-left: 20px;
     font-family: "montserrat";
     font-weight: "semibold";
     font-size: 15px;
@@ -887,7 +887,7 @@ height: 15px;
     color: #10151A;
     background-color: #DBE268;
     font-size: 14px;
-    margin-left:20px ;
+    margin-left: 20px;
     margin-top: 62px;
     height: 20px;
     font-family: "montserrat";
@@ -925,13 +925,13 @@ height: 15px;
 
 .podcast1 {
     background-color: #121E28;
-    width:330px ;
-    height:280px ;
+    width: 330px;
+    height: 280px;
     border-radius: 20px;
 }
 
 .imagepodcast1 {
-    margin-left:20px ;
+    margin-left: 20px;
     margin-top: 20px;
 }
 
@@ -939,8 +939,8 @@ height: 15px;
     background-color: #121E28;
     font-size: 18px;
     color: #FFFFFF;
-    margin-left:20px ;
-    margin-top:15px;
+    margin-left: 20px;
+    margin-top: 15px;
     font-family: "montserrat";
     font-weight: bold;
 }
@@ -949,8 +949,8 @@ height: 15px;
     background-color: #121E28;
     font-size: 15px;
     color: #E2E2E2;
-    margin-left:20px ;
-    margin-top:15px;
+    margin-left: 20px;
+    margin-top: 15px;
     font-family: "montserrat";
     font-weight: "SemiBold";
 }
@@ -983,13 +983,13 @@ height: 15px;
 
 .podcast2 {
     background-color: #121E28;
-    width:330px ;
-    height:280px ;
+    width: 330px;
+    height: 280px;
     border-radius: 20px;
 }
 
 .imagepodcast2 {
-    margin-left:20px ;
+    margin-left: 20px;
     margin-top: 20px;
 }
 
@@ -997,8 +997,8 @@ height: 15px;
     background-color: #121E28;
     font-size: 18px;
     color: #FFFFFF;
-    margin-left:20px ;
-    margin-top:15px;
+    margin-left: 20px;
+    margin-top: 15px;
     font-family: "montserrat";
     font-weight: bold;
 }
@@ -1007,8 +1007,8 @@ height: 15px;
     background-color: #121E28;
     font-size: 15px;
     color: #E2E2E2;
-    margin-left:20px ;
-    margin-top:15px;
+    margin-left: 20px;
+    margin-top: 15px;
     font-family: "montserrat";
     font-weight: "SemiBold";
 }
@@ -1040,8 +1040,8 @@ height: 15px;
 
 .podcast3 {
     background-color: #121E28;
-    width:330px ;
-    height:280px ;
+    width: 330px;
+    height: 280px;
     border-radius: 20px;
 }
 
@@ -1054,8 +1054,8 @@ height: 15px;
     background-color: #121E28;
     font-size: 18px;
     color: #FFFFFF;
-    margin-left:20px ;
-    margin-top:15px;
+    margin-left: 20px;
+    margin-top: 15px;
     font-family: "montserrat";
     font-weight: bold;
 }
@@ -1065,8 +1065,8 @@ height: 15px;
     background-color: #121E28;
     font-size: 15px;
     color: #E2E2E2;
-    margin-left:20px ;
-    margin-top:15px;
+    margin-left: 20px;
+    margin-top: 15px;
     font-family: "montserrat";
     font-weight: "SemiBold";
 }
@@ -1084,7 +1084,7 @@ height: 15px;
 }
 
 .ideagoose {
-    color:  #FFFFFF;
+    color: #FFFFFF;
     font-size: 46px;
     margin-top: 60px;
     justify-self: center;
@@ -1119,7 +1119,7 @@ height: 15px;
 }
 
 .logotele2 {
-   background-color: transparent;
+    background-color: transparent;
     margin-left: -44px;
     margin-bottom: 15px;
 }
@@ -1200,9 +1200,9 @@ height: 15px;
     display: flex;
     flex-direction: row;
     margin-top: 44px;
-  justify-content: center;
-  font-size: 20px;
- 
+    justify-content: center;
+    font-size: 20px;
+
 }
 
 
@@ -1228,7 +1228,7 @@ height: 15px;
     font-size: 45px;
     justify-self: center;
     margin-right: 180px;
-    
+
 }
 
 .container16 {
@@ -1236,13 +1236,13 @@ height: 15px;
     flex-direction: row;
     gap: 24px;
     margin-top: 44px;
-  justify-content: center;
-  font-size: 20px;
- 
+    justify-content: center;
+    font-size: 20px;
+
 
 }
 
-.text33{
+.text33 {
     color: #FFB4D3;
     border-radius: 40px;
     padding: 10px;
@@ -1260,7 +1260,7 @@ height: 15px;
     background-color: #2A3744;
 }
 
-.text35{
+.text35 {
     color: #D387F7;
     border-radius: 50px;
     padding: 10px;
@@ -1278,15 +1278,15 @@ height: 15px;
     background-color: #2A3744;
 }
 
-   
+
 .container17 {
     display: flex;
     flex-direction: row;
     gap: 24px;
     margin-top: 44px;
-  justify-content: center;
-  font-size: 20px;
-  margin-top: 15px;
+    justify-content: center;
+    font-size: 20px;
+    margin-top: 15px;
 
 }
 
@@ -1308,7 +1308,7 @@ height: 15px;
     background-color: #2A3744;
 }
 
-.text39{
+.text39 {
     color: #707F8D;
     border-radius: 40px;
     padding: 10px;
@@ -1325,7 +1325,7 @@ height: 15px;
 }
 
 
-  
+
 .container18 {
     display: flex;
     flex-direction: row;
@@ -1432,7 +1432,7 @@ height: 15px;
     display: flex;
     justify-content: center;
 }
-    
+
 
 .container20 {
     display: flex;
@@ -1446,7 +1446,7 @@ height: 15px;
     display: flex;
     justify-content: center;
 }
-    
+
 
 .container21 {
     display: flex;
@@ -1458,7 +1458,7 @@ height: 15px;
     color: #121E28;
     border-radius: 40px;
     padding: 5px;
-   border: #2A3744;
+    border: #2A3744;
     border: 4px #10151A solid;
 }
 
@@ -1466,7 +1466,7 @@ height: 15px;
     color: #121E28;
     border-radius: 40px;
     padding: 5px;
-   border: #2A3744;
+    border: #2A3744;
     border: 4px #10151A solid;
 }
 
@@ -1474,7 +1474,7 @@ height: 15px;
     color: #121E28;
     border-radius: 40px;
     padding: 5px;
-   border: #2A3744;
+    border: #2A3744;
     border: 4px #10151A solid;
 }
 
@@ -1482,7 +1482,7 @@ height: 15px;
     color: #121E28;
     border-radius: 40px;
     padding: 5px;
-   border: #2A3744;
+    border: #2A3744;
     border: 4px #10151A solid;
 }
 
@@ -1490,7 +1490,7 @@ height: 15px;
     color: #121E28;
     border-radius: 40px;
     padding: 5px;
-   border: #2A3744;
+    border: #2A3744;
     border: 4px #10151A solid;
 }
 
@@ -1498,7 +1498,7 @@ height: 15px;
     color: #121E28;
     border-radius: 40px;
     padding: 5px;
-   border: #2A3744;
+    border: #2A3744;
     border: 4px #10151A solid;
 }
 
@@ -1508,15 +1508,15 @@ height: 15px;
     gap: 120px;
     display: flex;
     flex-direction: row;
-   justify-content: center;
-   font-size: 22px;
-   font-weight: bold;
+    justify-content: center;
+    font-size: 22px;
+    font-weight: bold;
 }
 
 
 .text50 {
     color: #E5E5E5;
-   margin-left: 0px;
+    margin-left: 0px;
 }
 
 .text51 {
@@ -1544,12 +1544,12 @@ height: 15px;
     height: 100px;
     width: auto;
     color: #FFFFFF;
-    margin-top:100px ;
+    margin-top: 100px;
 }
 
 .containerfooter {
     background-color: #121E28;
-    height :100px;
+    height: 100px;
     width: auto;
 }
 
@@ -1563,15 +1563,15 @@ height: 15px;
 }
 
 .textabout {
-    color:#FFFFFF;
+    color: #FFFFFF;
     background-color: #121E28;
     margin-top: 35px;
 }
 
 .textlegal {
-color:#FFC803;
-background-color: #121E28;
-margin-top: 35px;
+    color: #FFC803;
+    background-color: #121E28;
+    margin-top: 35px;
 }
 
 .figuurfooter {
@@ -1587,12 +1587,12 @@ margin-top: 35px;
 }
 
 
- /* dit is mijn eerste stukje van about */
+/* dit is mijn eerste stukje van about */
 
- .containerourherous {
- display: flex;
- justify-content: center;
- }
+.containerourherous {
+    display: flex;
+    justify-content: center;
+}
 
 
 .our_heroes {
@@ -1612,14 +1612,14 @@ margin-top: 35px;
 }
 
 .containerjohndoe {
-    width:330px ;
-    height:330px ;
+    width: 330px;
+    height: 330px;
     background-color: #FFB4D3;
     border-radius: 20px;
 }
 
 .imgjohndoe {
-    margin-left: 20px;
+    margin-left: 80px;
     margin-top: 22px;
     background-color: #FFB4D3;
 }
@@ -1628,9 +1628,9 @@ margin-top: 35px;
     font-size: 20px;
     color: #10151A;
     background-color: #FFB4D3;
-    font-family: "montserrat"; 
+    font-family: "montserrat";
     font-weight: bold;
-    margin-left:20px;
+    margin-left: 20px;
     margin-top: 15px;
 }
 
@@ -1638,18 +1638,26 @@ margin-top: 35px;
     color: #10151A;
     background-color: #FFB4D3;
     margin-top: 10px;
-    margin-left:20px ;
+    margin-left: 20px;
     font-family: "montserrat";
     font-weight: "semibold";
     font-size: 12px;
 }
 
 .textcontact {
-color: #0A1117;
-font-size: 14px;
-background-color: #121E28;
-margin-top: 60px;
-margin-left: 20px;
-font-family: "montserrat";
-font-weight: bold;
+    color: #000000;
+    font-size: 14px;
+    margin-top: 40px;
+    margin-left: 240px;
+    font-family: "montserrat";
+    font-weight: bold;
+    background-color: #FFB4D3;
+}
+
+.imagelisten2 {
+    color: #0A1117;
+    height: 15px;
+    width: 15px;
+    background-color: #FFB4D3;
+
 }
