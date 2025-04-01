@@ -127,10 +127,7 @@ dit is de navigatie balk  */
     font-family: montserrat;
 }
 
-.tussen_doos {
-    height: 106px;
-    width: 100%;
-}
+
 
 .begin_doosje {
     height: 448px;
@@ -1540,17 +1537,13 @@ dit is de navigatie balk  */
     color: #E5E5E5;
 }
 
-.laatste-balk {
-    height: 100px;
-    width: auto;
-    color: #FFFFFF;
-    margin-top: 100px;
-}
+
 
 .containerfooter {
     background-color: #121E28;
     height: 100px;
     width: auto;
+    margin-top: 50px;
 }
 
 .container-text2 {
@@ -1661,3 +1654,66 @@ dit is de navigatie balk  */
     background-color: #FFB4D3;
 
 }
+
+
+/* Hier begint contact */
+
+.form-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: #0A1117;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0px 4px 10px rgba(255, 255, 255, 0.1);
+    width: 350px;
+}
+
+h2 {
+    color: white;
+    text-align: center;
+}
+
+input, textarea, select, button {
+    width: 100%;
+    padding: 10px;
+    margin: 10px 0;
+    border-radius: 5px;
+    border: none;
+}
+
+input, textarea, select {
+    background-color: #333;
+    color: white;
+}
+
+button {
+    background-color: #d1a3ff;
+    color: black;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+.center-doos {
+    width: auto;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    height: 500px;
+}
+
+
+.center-doos2 {
+    width: 100vw;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    height: 15px
+}
+
+
+
+button:hover {
+    background-color: #b682ff;
+}   
