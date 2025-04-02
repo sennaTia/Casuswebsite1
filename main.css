@@ -598,6 +598,7 @@ dit is de navigatie balk  */
     margin-top: 200px;
 }
 
+/* Hier heb ik de doos gemaakt van weekly digest */
 
 
 .doos-3 {
@@ -725,6 +726,8 @@ dit is de navigatie balk  */
     background-color: #77E6FF;
 }
 
+/* Hier heb ik de tekst gemaakt van super dao */
+
 .textsuperdao {
     font-size: 20px;
     color: #10151A;
@@ -733,7 +736,6 @@ dit is de navigatie balk  */
     font-weight: bold;
     margin-left: 20px;
     margin-top: 15px;
-
 }
 
 .textsuperdao2 {
@@ -1178,7 +1180,7 @@ dit is de navigatie balk  */
 
 .textemail2 {
     color: #40354B;
-    font-size: 14px;
+    font-size: 12px;
     margin-left: 80px;
     background-color: transparent;
     margin-top: 3px;
@@ -1704,7 +1706,7 @@ button {
 
 
 .center-doos2 {
-    width: 100vw;
+    width: auto;
     align-items: center;
     display: flex;
     justify-content: center;
